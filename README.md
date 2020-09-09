@@ -1,6 +1,6 @@
 # Play embedded videos in mobile applications using JavaScript in Flutter.
 
-You can read the full articile on [Medium](https://medium.com/@najyfannoun).
+You can read the full article on [Medium](https://medium.com/@najyfannoun).
 
 - **Don't** forget to replace with your own url.
 	> JsFlutter _jsFlutter = JsFlutter(url: "your url");.
