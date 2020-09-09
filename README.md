@@ -6,7 +6,7 @@ You can read the full articile on [Medium](https://medium.com/@najyfannoun).
 	> JsFlutter _jsFlutter = JsFlutter(url: "your url");.
 
 
-![Flutter JavaScript](https://raw.githubusercontent.com/NajyFannoun/embedded_video_player/master/assets/gifs/embed.gif)
+![Flutter JavaScript](https://github.com/NajyFannoun/embedded_video_player/blob/master/assets/gifs/embed.gif)
 
 #### Me on
 [GitHub](https://medium.com/@najyfannoun).
